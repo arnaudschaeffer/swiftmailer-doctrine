@@ -1,5 +1,5 @@
 {
-    "name": "fxp/swiftmailer-doctrine",
+    "name": "arnaudschaeffer/swiftmailer-doctrine",
     "type": "library",
     "description": "Doctrine model spool for Swiftmailer",
     "keywords": ["swiftmailer", "spool", "doctrine"],
