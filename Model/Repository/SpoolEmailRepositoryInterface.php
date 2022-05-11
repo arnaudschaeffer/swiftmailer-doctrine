@@ -12,7 +12,7 @@
 namespace Fxp\Component\SwiftmailerDoctrine\Model\Repository;
 
 use Doctrine\Common\Collections\Selectable;
-use Doctrine\Common\Persistence\ObjectRepository;
+use Doctrine\Persistence\ObjectRepository;
 use Fxp\Component\SwiftmailerDoctrine\Model\SpoolEmailInterface;
 
 /**

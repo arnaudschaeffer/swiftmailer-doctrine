@@ -11,8 +11,8 @@
 
 namespace Fxp\Component\SwiftmailerDoctrine\Spool;
 
-use Doctrine\Common\Persistence\ManagerRegistry;
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ManagerRegistry;
+use Doctrine\Persistence\ObjectManager;
 use Fxp\Component\SwiftmailerDoctrine\Exception\InvalidArgumentException;
 use Fxp\Component\SwiftmailerDoctrine\Model\Repository\SpoolEmailRepositoryInterface;
 use Fxp\Component\SwiftmailerDoctrine\Model\SpoolEmailInterface;
