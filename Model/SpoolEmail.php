@@ -23,7 +23,7 @@ abstract class SpoolEmail implements SpoolEmailInterface
     /**
      * @var null|int|string
      */
-    protected $id;
+    protected ?int $id = null;
 
     /**
      * @var string
